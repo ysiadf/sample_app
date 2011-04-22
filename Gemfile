@@ -30,4 +30,5 @@ group :development, :test do
     gem 'rspec-rails', '>=2.0.0.beta'
     gem 'webrat'
     gem 'spork'
+    gem 'annotate-models'
 end
